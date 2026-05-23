@@ -1,11 +1,14 @@
-# Data files (do not commit large datasets)
-data/*.csv
+# Data files (optional, if you use DVC)
+# data/*.csv
 
 # Python cache
 pycache/
 *.pyc
 
-# Jupyter notebooks checkpoints
+# DVC
+.dvc/tmp/
+
+# Jupyter
 .ipynb_checkpoints/
 
 # Environment
