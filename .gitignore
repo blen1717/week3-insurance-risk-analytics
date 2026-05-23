@@ -6,8 +6,6 @@ pycache/
 *.pyc
 
 # DVC
-.dvc/
-.dvc/tmp/
 
 # Jupyter notebooks checkpoints
 .ipynb_checkpoints/
