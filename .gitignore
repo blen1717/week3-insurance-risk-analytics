@@ -1,6 +1,18 @@
+# Data files (do not commit large datasets)
 data/*.csv
-*.pyc
+
+# Python cache
 pycache/
+*.pyc
+
+# DVC
 .dvc/
 .dvc/tmp/
+
+# Jupyter notebooks checkpoints
 .ipynb_checkpoints/
+
+# Environment
+.env
+venv/
+.venv/
