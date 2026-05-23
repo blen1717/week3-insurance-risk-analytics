@@ -1,1 +1,6 @@
-
+data/*.csv
+*.pyc
+pycache/
+.dvc/
+.dvc/tmp/
+.ipynb_checkpoints/
