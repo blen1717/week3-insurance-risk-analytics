@@ -14,3 +14,4 @@ pycache/
 .env
 venv/
 .venv/
+data/*.csv
