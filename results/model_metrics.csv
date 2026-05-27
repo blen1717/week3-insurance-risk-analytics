@@ -1,0 +1,5 @@
+Model,Type,Metric,Score
+Random Forest,Classifier,AUC,0.791981160209408
+XGBoost,Classifier,AUC,0.7844
+Random Forest,Regressor,R²,0.2325
+XGBoost,Regressor,R²,0.23388817550641394
